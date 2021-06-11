@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part-1 : Setting up Lab for iOS App Pen testing
+title: 1.Setting up Lab for iOS App Pen testing
 categories: [iOS , iOS Penetration Testing ,Security]
 ---
 
