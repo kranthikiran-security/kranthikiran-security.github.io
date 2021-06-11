@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: About
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ permalink: /about/
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment. -->
 
-<iframe src="/Resume.pdf#toolbar=0" width="100%" height="100%"></iframe>
+<iframe src="/Resume.pdf#toolbar=0" width="100%" height="1200px"></iframe>
 
 <!-- ## Features
 
