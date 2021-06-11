@@ -24,8 +24,7 @@ This is the code snippet:
 ```
 
 Replace the above yourpdfLocation with Path of the PDF File.
-Example given below
-
+Example path given below:
 ```
 /uploads/resume.pdf
 
