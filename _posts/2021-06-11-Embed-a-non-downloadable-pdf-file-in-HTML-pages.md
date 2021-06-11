@@ -4,10 +4,25 @@ title:  Embed PDF in HTML Page
 categories: [HTML,Code]
 ---
 
-This post demonstrate how to embed a Non downloadable PDF File in the HTML webpage.
+This post demonstrate how to embed a PDF File in the HTML webpage.
 
-This is the code snippet:
+This code snippet below helps how to add the Simple PDF File using <iframe> tag.
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example with iframe</h1>   
+    <iframe src="link/to/your.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
 
+```
+
+This is the code snippet for embedding Non downloadable PDF File:
 ```
 <!DOCTYPE html>
 <html>
