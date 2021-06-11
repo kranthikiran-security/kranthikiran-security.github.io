@@ -4,6 +4,8 @@ title: 1.Setting up Lab for iOS App Pen testing
 categories: [iOS , iOS Penetration Testing ,Security]
 ---
 
+It is series of posts , we keep learninng about iOS Secure Architecture and how to Exploit it using Jailbreaks available.
+
 ### Need for jailbreaking 
 
 iOS itself has a lot of security features. Neither installing any app outside of AppStore nor accessing its file system by default is allowed by iOS.
