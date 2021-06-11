@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: How to create free website with this Reverie Template
 permalink: /getting-started/
 ---
 
@@ -24,7 +24,7 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-## Using Categories in Reverie
+## Using Categories in Reverie Template
 
 You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
 
@@ -48,4 +48,4 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 
 ## Sitemap
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://kranthikiran-security.github.io/reverie/sitemap).
